@@ -8,3 +8,5 @@ print(hotsauce.hot_mul(10,5,12))
 print(hotsauce.hot_aver(10,5,12))
 
 print('error')
+
+print('revert1')
